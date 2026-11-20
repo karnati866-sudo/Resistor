@@ -1,0 +1,2 @@
+# Resistor
+Information on resistor 
